@@ -18,8 +18,8 @@
 * [SMPP](/protocols/smpp/)
 * [HTTP](/protocols/http/)
 * [XML](/protocols/xml/)
-* [SOAP](/protocols/soap/)
-* [JSON](/protocols/json/)
+* [SOAP (http/https)](/protocols/soap/)
+* [JSON (http/https)](/protocols/json/)
 
 ## Вам нужно специальное решение?
 
