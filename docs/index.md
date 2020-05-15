@@ -19,7 +19,7 @@
 * [HTTP](/protocols/http/)
 * [XML](/protocols/xml/)
 * [SOAP](/protocols/soap/)
-* [SOAP](/protocols/json/)
+* [JSON](/protocols/json/)
 
 ## Вам нужно специальное решение?
 
